@@ -1,3 +1,5 @@
+// add this code to your footer javascript or a js included in the page
+
 const settings = {
      // default settings
     responsive: [
